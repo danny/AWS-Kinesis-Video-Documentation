@@ -63,7 +63,7 @@ The procedure includes the following steps:
 
   1. Choose **Create pool**\.
 
-  1. On the next page, expand the **Show Details** section\. 
+  1. On the next page, expand the **View Details** section\. 
 
   1. In the section that has a value for **Role name** that ends in **Auth\_Role**, choose **View Policy Document**\.
 
